@@ -33,3 +33,7 @@ Use Phoenix Tuner X to tune the robot's PID controllers. This involves using vel
 ## Velocity Closed Loop
 
 Implement a velocity closed-loop control system. This can help the robot maintain a consistent speed, which can be important for tasks that require precise movement.
+
+## Wheel Radius Characterization 
+
+Look at [CIS code snipit](https://github.com/FRC4607/Comp-Bot-2024/blob/worlds/src/main/java/frc/robot/commands/WheelRadiusCharacterization.java) where it will automatically calibrate the wheel radius for the swerve moduals.
