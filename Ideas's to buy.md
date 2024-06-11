@@ -1,3 +1,5 @@
+# For Eric To Buy
+
 coral for LimeLight [https://coral.ai/products/accelerator]
 unify flex mini [https://store.ui.com/us/en/collections/unifi-switching-utility-mini/products/usw-flex-mini]
 CANdle for Lights [https://store.ctr-electronics.com/candle/]

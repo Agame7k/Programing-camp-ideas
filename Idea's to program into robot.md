@@ -1,5 +1,6 @@
-# TELEMETRY FROM APRIL TAGS
+# Idea's To program into robot
 
+**TELEMETRY FROM APRIL TAGS**
 **Logging!!! (AdvancedScope)**
 **Light Codes**
 Field 2D pose on Smart dashboard
