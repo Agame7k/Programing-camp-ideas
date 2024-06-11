@@ -1,11 +1,35 @@
-# Idea's To program into robot
+# Ideas to Program into the Robot
 
-**TELEMETRY FROM APRIL TAGS**
-**Logging!!! (AdvancedScope)**
-**Light Codes**
-Field 2D pose on Smart dashboard
-Take ideas from [https://github.com/fry42guy/Camp-Swerve-2024]
-Use CTRE swerve to generate basic Swerve code
-With auto aiming only take over YAW axis or just one axis
-Tune PID Via Phoenix Tuner X using Velocity Voltage and look at the RotorVelocity and the PIDVelocity Reference
-Velocity Closed loop
+This document outlines several ideas for programming enhancements for the robot.
+
+## Telemetry from April Tags
+
+April Tags are a type of visual fiducial marker system. They can be used for precise, 2D and 3D positioning in robotics applications. The idea is to use the telemetry data from these tags to improve the robot's navigation capabilities.
+
+## Logging (AdvancedScope)
+
+Implement advanced logging capabilities in the robot's software. This could include logging sensor data, system status, and other important information for debugging and performance tuning.
+
+## Light Codes
+
+Use light codes (LED patterns) to communicate the robot's status or mode. This can make it easier to understand what the robot is doing or if it's experiencing any issues.
+
+## Field 2D Pose on Smart Dashboard
+
+Display the robot's 2D pose (position and orientation) on the Smart Dashboard. This can help operators understand the robot's current state and make better decisions.
+
+## Use CTRE Swerve to Generate Basic Swerve Code
+
+CTRE Swerve is a library for controlling swerve drive robots. The idea is to use this library to generate the basic code for controlling the robot's movement.
+
+## Auto Aiming with YAW Axis Control
+
+Implement an auto-aiming feature that takes control of the robot's YAW axis. This could improve the robot's accuracy in tasks that involve aiming or alignment.
+
+## PID Tuning with Phoenix Tuner X
+
+Use Phoenix Tuner X to tune the robot's PID controllers. This involves using velocity and voltage data to adjust the PID parameters and improve the robot's control performance.
+
+## Velocity Closed Loop
+
+Implement a velocity closed-loop control system. This can help the robot maintain a consistent speed, which can be important for tasks that require precise movement.
