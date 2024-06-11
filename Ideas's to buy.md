@@ -1,6 +1,6 @@
 # For Eric To Buy
 
-This document lists several items that Eric needs to purchase for the project.
+This document lists several items that Eric needs to purchase for the robot.
 
 ## Coral for LimeLight
 
