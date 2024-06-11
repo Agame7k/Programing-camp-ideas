@@ -4,7 +4,7 @@ This document lists several items that Eric should purchase for the robot.
 
 ## Coral for LimeLight
 
-Coral is a USB accessory that accelerates machine learning inference. It can be used with LimeLight, a vision system for FIRST Robotics. [Coral Product Link](https://coral.ai/products/accelerator)
+Coral is a USB accessory that accelerates machine learning inference. It can be used with LimeLight, a vision system for FIRST Robotics. [Coral Product Link](https://coral.ai/products/accelerator) ![coral USB](https://coral.ai/products/accelerator/)
 
 ## Unifi Flex Mini
 
